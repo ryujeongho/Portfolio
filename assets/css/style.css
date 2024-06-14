@@ -1137,6 +1137,6 @@ section {
 .ds-projects-loop:hover figure img.ds-image-shadow{box-shadow:20px 20px rgb(162, 196, 255);}
 .ds-link-button{ position: absolute; right:0.4375rem; top:0.4375rem; width: 2rem; height: 2rem; border-radius: 3px; background-color: #000; display: block; justify-content: center; align-items: center; color: #CBFE00; font-size: 1.125rem; text-align: center; opacity: 0 }
 .ds-projects-loop:hover .ds-link-button{ opacity: 1 }
-.ds-projects-loop section{ margin-top: 5.875rem }
+/* .ds-projects-loop section{ margin-top: 5.875rem } */
 .ds-projects-loop section h3{font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 1.25rem}
 .ds-projects-loop section span{ font-size: 1rem; font-weight: 400 }
