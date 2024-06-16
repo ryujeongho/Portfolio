@@ -5,8 +5,8 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-img {max-width: 100%;border: none;outline: none;height: auto;}
-svg,img { max-width: 100%; height: auto; }
+img {max-width: 100%;border: none;outline: none; height: 320px; width: 300px;}
+/* svg,img { max-width: 100%; height: auto; } */
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -1140,3 +1140,5 @@ section {
 /* .ds-projects-loop section{ margin-top: 5.875rem } */
 .ds-projects-loop section h3{font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 1.25rem}
 .ds-projects-loop section span{ font-size: 1rem; font-weight: 400 }
+.ds-hover-grow { transition: transform 0.3s ease; }
+.ds-hover-grow:hover { transform: scale(1.05); }
